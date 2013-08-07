@@ -1,0 +1,1 @@
+openssl s_client -servername [hostname, should match CN] -connect [serverip]:443
